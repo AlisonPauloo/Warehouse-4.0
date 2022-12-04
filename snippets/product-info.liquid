@@ -334,11 +334,6 @@
               </div>
             </div>
 
-            <br>
-            ou em até <span style="font-weight: bold;">12x</span> de <span style="color: #d35400;"> {{ product.price | divided_by: 12.00 | times: 1.2375 | money }}
-    </span>
-    
-
             {%- if section.settings.show_taxes_included -%}
               {%- if shop.taxes_included or shop.shipping_policy.body != blank -%}
                 <p class="product-form__price-info">
