@@ -284,7 +284,7 @@
               
               <script>console.log('produc indo {{ juros }}')</script>
               
-              <p class="parcelamento" style='font-size:15px'>em até 12x de <span style="font-size:15px; color: #545454;"><b>{{ product.price | divided_by: 12 | times: juros| round:2 | money }}</b></span></p>
+              <p class="parcelamento" style='font-size:15px'>em até 12x de <span style="font-size:15px; color: #545454;"><b>{{ product.price | divided_by: 12 | times: 1.2375| round:2 | money }}</b></span></p>
             </div>
             
             <script>
