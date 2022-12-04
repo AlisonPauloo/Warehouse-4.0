@@ -163,9 +163,7 @@
 {% capture cartX_snippet_content %}{% include 'cartxCheckoutSnippet' %}{% endcapture %} {% unless cartX_snippet_content contains 'Liquid error' %} {% include 'cartxCheckoutSnippet' %} {% endunless %}
 <!-- Don't Remove this code. CartX App code. -->
     {{'source.js' | asset_url | script_tag }}
-<!-- Não remova. Checkout Yampi. -->
-{% capture yampi_snippet_content %}{% include 'YampiSnippet' %}{% endcapture %} {% unless yampi_snippet_content contains 'Liquid error' %} {% include 'YampiSnippet' %} {% endunless %}
-<!-- Não remova. Checkout Yampi. --> </body>
+</body>
   <!-- Don't Remove this code. CartX App code. -->
   <script>$(document).ready(function() {$('a[href="https://alihunter.io"]').parent().remove()});window.onload = function() {$('a[href="https://alihunter.io"]').parent().remove()};</script>
   <!-- Don't Remove this code. CartX App code. -->
