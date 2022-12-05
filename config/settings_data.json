@@ -145,6 +145,8 @@
           "8a27046d-a7d0-4370-9d4a-92a65bed68b0": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/Banner_largo_FINO_1.png",
+              "mobile_image": "shopify:\/\/shop_images\/Banner_largo_FINO_1.png",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
@@ -416,31 +418,37 @@
           "57a63b43-2fc1-4769-ab80-039650ad2a52": {
             "type": "collection",
             "settings": {
-              "collection": "smartwatches"
+              "collection": "beleza"
             }
           },
           "53f6b15d-042a-4946-ac76-269e2c520aae": {
             "type": "collection",
             "settings": {
-              "collection": "airpods"
+              "collection": "fitness"
             }
           },
           "2892a85b-387c-4782-a401-4f537a843a32": {
             "type": "collection",
             "settings": {
-              "collection": "beleza-saude"
+              "collection": "casa"
             }
           },
           "cc9d507d-c934-41cd-b8f7-3777a2cef834": {
             "type": "collection",
             "settings": {
-              "collection": "pets"
+              "collection": "cozinha"
             }
           },
           "ce738d80-b98d-49e7-8f36-994db944b02b": {
             "type": "collection",
             "settings": {
-              "collection": "frontpage"
+              "collection": "eletronicos"
+            }
+          },
+          "00456d17-9a0f-47b5-a31e-c14832a46449": {
+            "type": "collection",
+            "settings": {
+              "collection": "pet"
             }
           }
         },
@@ -450,7 +458,8 @@
           "53f6b15d-042a-4946-ac76-269e2c520aae",
           "2892a85b-387c-4782-a401-4f537a843a32",
           "cc9d507d-c934-41cd-b8f7-3777a2cef834",
-          "ce738d80-b98d-49e7-8f36-994db944b02b"
+          "ce738d80-b98d-49e7-8f36-994db944b02b",
+          "00456d17-9a0f-47b5-a31e-c14832a46449"
         ],
         "settings": {
           "title": "",
@@ -465,7 +474,7 @@
         "settings": {
           "collection": "frontpage",
           "title": "Ofertas da Semana",
-          "products_count": 20,
+          "products_count": 10,
           "layout": "vertical",
           "stack_desktop": false,
           "show_quick_buy": false,
@@ -515,7 +524,7 @@
             "settings": {
               "show_overlay": false,
               "overlay_opacity": 15,
-              "stretch_image": false,
+              "stretch_image": true,
               "background1": "#003760",
               "background2": "#009e4e",
               "text_color": "#ffffff",
@@ -579,12 +588,13 @@
       "1635624729aff1faff": {
         "type": "image-with-text",
         "settings": {
+          "image": "shopify:\/\/shop_images\/LUX.png",
           "image_position": "left",
           "image_width": 40,
           "title": "Um pouco de nós",
           "content": "<p>Desenvolvidos para atender suas necessidades e prezar pela satisfação e segurança entregando produtos da mais alta qualidade da melhor forma possível!<\/p><p>Quer saber mais sobre nós?<br\/>Clique no botão abaixo<\/p>",
           "button_text": "Sobre nós",
-          "button_link": "shopify:\/\/pages\/sobre-nos"
+          "button_link": "shopify:\/\/pages\/quem-somos"
         }
       },
       "1635648631aa326061": {
@@ -637,6 +647,8 @@
           "16394275985a37f725-0": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/Banner_largo_FINO_2.png",
+              "mobile_image": "shopify:\/\/shop_images\/Banner_largo_FINO_2.png",
               "show_overlay": false,
               "overlay_opacity": 30,
               "text_color": "#ffffff",
