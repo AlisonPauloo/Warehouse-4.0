@@ -120,7 +120,7 @@
             "type": "text",
             "settings": {
               "title": "DÚVIDAS? FALE CONOSCO!",
-              "content": "<p>Horário de Atendimento:<br\/>Seg. à Sab. <strong>8:00h<\/strong> às <strong>18:00h<\/strong><\/p><p><strong>E-mail:<\/strong> konvertecom@gmail.com<br\/><strong>Telefone:<\/strong> +55 (31) 9 8730-6946<\/p>"
+              "content": "<p>Horário de Atendimento:<br\/>Seg. à Sab. <strong>8:00h<\/strong> às <strong>18:00h<\/strong><\/p><p><strong>E-mail:<\/strong> contato@luximportadoss.com.br<br\/><strong>Telefone:<\/strong> +55 (48) 98868-9613<\/p>"
             }
           }
         },
@@ -134,7 +134,7 @@
           "show_payment_icons": true,
           "show_locale_selector": false,
           "show_currency_selector": false,
-          "show_cookie_bar": false,
+          "show_cookie_bar": true,
           "text": "<p>Use this bar to show information about your cookie policy.<\/p>",
           "accept_button": "Accept"
         }
